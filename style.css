@@ -1,4 +1,16 @@
-div {
-    height: 50px;
-    border: 1px solid red;
-  }
+img {
+  width:100%;
+  border: 1px solid blue;
+}
+/* 
+thumbnail {
+  line-height: 50px;
+} */
+
+/* li {
+  display: inline;
+} */
+
+p{
+
+}
